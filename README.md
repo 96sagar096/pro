@@ -1,4 +1,4 @@
-# TechVision 2026 - Innovation Summit Website
+# Vidyut 2026 - Innovation Summit Website
 
 A fully responsive, modern, and interactive event website for TechVision 2026, showcasing innovation and technology leadership.
 
